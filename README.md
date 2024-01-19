@@ -20,28 +20,24 @@ A web application to calculate daily and annualized volatility of financial data
 ### Installation
 
 1. Clone the repository:
-
     ```bash
     git clone https://github.com/your-username/volatility-checker.git
     ```
 2. Navigate to the project directory:
-
     ```bash
     cd volatility-checker
     ```
 3. Install dependencies:
-
     ```bash
     pip install -r requirements.txt
     ```
 ### Usage
 
 1. Run the Flask application:
-
     ```bash
     python app.py
     ```
-
+    
 2. Open your browser and go to [http://localhost:5000](http://localhost:5000).
 
 3. Upload a financial dataset in CSV format and click "Calculate Volatility."
